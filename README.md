@@ -1,0 +1,2 @@
+# CommentData_Gutitubo
+Twitch100時間制限に追われぐちつぼさんの配信のコメントをまとめたもの
